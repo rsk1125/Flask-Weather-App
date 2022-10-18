@@ -19,5 +19,4 @@ OpenWeatherMap
 Known issues:
 Currently search feature only supports single words for cities, as entering any spaces
 will cause a 404 when entered in the search feature.
-This is due to the way that the API formats the city names, will need to figure out
-a way to format search bar entry to fix the 404'ing
+The current workaround is using the unicode for space, which is %20
