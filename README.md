@@ -1,13 +1,15 @@
 # Flask-Weather-App
 
-Just a simple weather app built using the Flask framework in Python, as well as the OpenWeatherMapAPI
+Just a simple weather app built using the Flask framework for Python, as well as the OpenWeatherMapAPI
 
 Displays current weather conditons, location, coordinates, pressure and humidity, 
 as well as having a search feature that can take city and zipcode input
+(default city on start-up is Tallahassee)
 
-Utilizes Flask framework
+Ensure you have the required modules installed, and run weather.py.
+You will get a local url to enter into your browser to acess the app
 
-Modules used:
+Modules used/required:
 Flask (Flask, render_template, request)
 datetime
 json
