@@ -10,10 +10,10 @@ Ensure you have the required modules installed, and run weather.py.
 You will get a local url to enter into your browser to access the app
 
 Modules used/required:
-Flask (Flask, render_template, request)
-datetime
-json
-urllib.request
+-Flask (Flask, render_template, request)
+-datetime
+-json
+-urllib.request
 
 API:
 OpenWeatherMap
